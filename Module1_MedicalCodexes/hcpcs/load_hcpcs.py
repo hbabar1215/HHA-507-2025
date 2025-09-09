@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Path to the HCPCS text file
-file_path = "HHA-507-2025\Module1_MedicalCodexes\hcpcs\output\HCPC2025_OCT_ANWEB.csv"
+file_path = "HHA-507-2025\Module1_MedicalCodexes\hcpcs\input\HCPC2025_OCT_ANWEB_v2.txt"
 
 
 # Read the file into a DataFrame
